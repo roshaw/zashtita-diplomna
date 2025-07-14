@@ -14,6 +14,6 @@
         "build": "reveal-md slides.md --static build --static-dirs resources --assets-dir \"\"",
         "dev": "reveal-md slides.md -w",
         "export": "open-cli http://localhost:1948/slides.md?print-pdf",
-        "start": "reveal-md slides.md"
+        "start": "npm run dev"
     }
 }
