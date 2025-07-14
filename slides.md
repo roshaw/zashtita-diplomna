@@ -27,3 +27,6 @@ Note:
 
 # Forth page
 
+* <!-- .element: class="fragment" --> Docblocks begin with <code>/**</code> and end with <code>*/</code>
+* <!-- .element: class="fragment" --> Can be single or multi-line
+
