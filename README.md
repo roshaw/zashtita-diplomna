@@ -1,3 +1,3 @@
 # Url
 
-https://roshaw.github.io/pesentation-demo/
+https://roshaw.github.io/zashtita-diplomna/
