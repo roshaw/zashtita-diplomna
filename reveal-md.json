@@ -1,0 +1,14 @@
+{
+    "title": "Demo presentation",
+    "absoluteUrl": "",
+    "theme": "league",
+    "revealOptions": {
+        "controls": true,
+        "controlsTutorial": false,
+        "pause": true,
+        "pdfSeparateFragments": false,
+        "progress": true,
+        "slideNumber": false,
+        "transition": "convex"
+    }
+}
