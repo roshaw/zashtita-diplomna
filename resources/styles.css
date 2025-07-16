@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
+
+.reveal {
+    --r-heading3-size: 1em;
+}
+.reveal .main-title {
+    --r-heading-font: Gabriela, TikTok Sans;
+    --r-heading4-size: .8em;
+}
+
+.main-subtitle {
+    --r-heading-font: Gabriela, TikTok Sans;
+    --r-heading4-size: .7em;
+}
+
+.main-author {
+    --r-heading-font: TikTok Sans;
+    --r-heading4-size: .5em;
+}
