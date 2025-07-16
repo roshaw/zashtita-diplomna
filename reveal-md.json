@@ -2,6 +2,9 @@
     "title": "Demo presentation",
     "absoluteUrl": "",
     "theme": "league",
+    "css": [
+        "resources/styles.css"
+    ],
     "revealOptions": {
         "controls": true,
         "controlsTutorial": false,
