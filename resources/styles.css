@@ -18,7 +18,7 @@
     --r-heading4-size: .5em;
 }
 
-.chart-container {
+.reveal .chart-container {
     position: relative;
     margin: auto;
     height: 80vh;
