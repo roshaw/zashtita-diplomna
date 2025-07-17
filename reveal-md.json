@@ -5,6 +5,10 @@
     "css": [
         "resources/styles.css"
     ],
+    scripts: [
+        "https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chart/plugin.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.2.0/chart.min.js"
+    ],
     "revealOptions": {
         "controls": true,
         "controlsTutorial": false,
