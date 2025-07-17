@@ -19,6 +19,7 @@ Note:
   ],
   "datasets": [
    {
+    "label":"Label",
     "data": [300, 50, 100],
     "backgroundColor": [
       "rgb(255, 99, 132)",
