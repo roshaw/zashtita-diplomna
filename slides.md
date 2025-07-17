@@ -8,7 +8,7 @@ Note:
 
 ---
 <div class="chart-container">
-<canvas data-chart="line" style="height: 300px">
+<canvas data-chart="pie" style="height: 300px">
 <!--
 {
  "data": {
