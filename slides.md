@@ -13,7 +13,7 @@ Note:
 <!--
 {
  "data": {
-  labels: [
+  "labels": [
     "Red",
     "Blue",
     "Yellow"
