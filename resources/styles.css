@@ -17,3 +17,10 @@
     --r-heading-font: TikTok Sans;
     --r-heading4-size: .5em;
 }
+
+.chart-container {
+    position: relative;
+    margin: auto;
+    height: 80vh;
+    width: 80vw;
+}
