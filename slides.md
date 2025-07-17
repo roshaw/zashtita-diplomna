@@ -67,15 +67,19 @@ Note:
   "labels": [
     "Red",
     "Blue",
-    "Yellow"
+    "Yellow",
+    "Green",
+    "Orange"
   ],
   "datasets": [{
     "label": "My First Dataset",
-    "data": [300, 50, 100],
+    "data": [2, 8, 1, 3, 1],
     "backgroundColor": [
       "rgb(255, 99, 132)",
       "rgb(54, 162, 235)",
-      "rgb(255, 205, 86)"
+      "rgb(255, 205, 86)",
+      "rgb(50, 205, 50)",
+      "rgb(255, 165, 0)"
     ],
     "hoverOffset": 4
   }]
