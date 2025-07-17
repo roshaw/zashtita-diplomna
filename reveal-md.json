@@ -10,7 +10,6 @@
         "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.2.0/chart.min.js"
     ],
     "revealOptions": {
-        "plugins": [ RevealChart ],
         "controls": true,
         "controlsTutorial": false,
         "pause": true,
