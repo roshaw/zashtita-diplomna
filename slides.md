@@ -84,7 +84,7 @@ Note:
     "hoverOffset": 4
   }]
 },
- "options": { "responsive": "true" }
+ "options": { "responsive": "true", "plugins": {"legend": {"position": "right"} }
 }
 -->
 </canvas>
