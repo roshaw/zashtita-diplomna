@@ -132,4 +132,5 @@ Note:
 
 ---
 
+![alt text](resources/nivanaeispryamostilnaliderstvo.jpeg)
 
