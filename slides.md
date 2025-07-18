@@ -164,7 +164,7 @@ Note:
 <div style="display: flex; gap: 20px;">
     <div>
         <h5>Либерален лидер</h5>
-        <ul>
+        <ul style="font-size: .7em;">
             <li class="fragment" data-fragment-index="1">Максимална автономия на екипа</li>
             <li class="fragment" data-fragment-index="3">Минимална намеса в процесите</li>
             <li class="fragment" data-fragment-index="5">Свобода на служителите да разрешават конфликти</li>
@@ -172,7 +172,7 @@ Note:
     </div>
     <div>
         <h5>Демократичен лидер</h5>
-        <ul>
+        <ul style="font-size: .7em;">
             <li class="fragment" data-fragment-index="2">Активно участие при вземане на решения</li>
             <li class="fragment" data-fragment-index="4">Прозрачност, открита комуникация, колективна отговорност</li>
             <li class="fragment" data-fragment-index="6">Цени мненията, стремеж към консенсус</li>
