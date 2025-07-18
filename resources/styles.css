@@ -25,3 +25,9 @@
     width: 60vw;
     background: white;
 }
+
+.reveal table {
+    font-size: .5em;
+    width: 140%;
+    margin-left: -20%;
+}
