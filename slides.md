@@ -182,6 +182,33 @@ Note:
 
 ----
 
+#### Конфликтен мениджмънт
+
+<div style="display: flex; gap: 20px;">
+    <div>
+        <h5>Либерален лидер</h5>
+        <ul style="font-size: .7em;">
+            <li class="fragment" data-fragment-index="1">Минимална намеса при конфликт</li>
+            <li class="fragment" data-fragment-index="3">Делегира отговорности</li>
+            <li class="fragment" data-fragment-index="5">Насърчава автономия и саморегулация</li>
+            <li class="fragment" data-fragment-index="7">Високо-компетентни и зрели екипи</li>
+            <li class="fragment" data-fragment-index="9">Риск от ескалация</li>
+        </ul>
+    </div>
+    <div>
+        <h5>Демократичен лидер</h5>
+        <ul style="font-size: .7em;">
+            <li class="fragment" data-fragment-index="2">Активно слушане</li>
+            <li class="fragment" data-fragment-index="4">Модериране на дискусията</li>
+            <li class="fragment" data-fragment-index="6">Колективно решение</li>
+            <li class="fragment" data-fragment-index="8">Повишена ангажираност</li>
+            <li class="fragment" data-fragment-index="10">Минимален риск от ескалация</li>
+        </ul>
+    </div>
+</div>
+
+----
+
 #### Либерален лидер
 
 * <!-- .element: class="fragment" --> Максимална автономия на екипа
