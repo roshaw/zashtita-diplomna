@@ -65,15 +65,15 @@ Note:
 {
  "data": {
   "labels": [
-    "Съперничество",
     "Сътрудничество",
-    "Избягване",
     "Компромис",
+    "Съперничество",
+    "Избягване",
     "Приспособяване"
   ],
   "datasets": [{
     "label": "My First Dataset",
-    "data": [2, 8, 1, 3, 1],
+    "data": [8, 3, 2, 1, 1],
     "backgroundColor": [
       "rgb(255, 99, 132)",
       "rgb(54, 162, 235)",
@@ -89,66 +89,6 @@ Note:
 -->
 </canvas>
 </div>
-
----
-
-<div class="chart-container">
-<canvas data-chart="pie">
-<!--
-{
- "data": {
-  "labels": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "Green",
-    "Orange"
-  ],
-  "datasets": [{
-    "label": "My First Dataset",
-    "data": [2, 8, 1, 3, 1],
-    "backgroundColor": [
-      "rgb(255, 99, 132)",
-      "rgb(54, 162, 235)",
-      "rgb(255, 205, 86)",
-      "rgb(50, 205, 50)",
-      "rgb(255, 165, 0)"
-    
-    ],
-    "hoverOffset": 4
-  }]
-},
- "options": { "responsive": "true" }
-}
--->
-</canvas>
-</div>
-
----
-
-<div class="chart-container">
-<canvas data-chart="line">
-<!--
-{
- "data": {
-  "labels": ["January"," February"," March"," April"," May"," June"," July"],
-  "datasets": [
-   {
-    "data":[65,59,80,81,56,55,40],
-    "label": "My first dataset", "backgroundColor": "rgba(20,220,220,.8)"
-   },
-   {
-    "data":[28,48,40,19,86,27,90],
-    "label": "My second dataset", "backgroundColor": "rgba(220,120,120,.8)"
-   }
-  ]
- },
- "options": { "responsive": "true" }
-}
--->
-</canvas>
-</div>
-
 
 ---
 
