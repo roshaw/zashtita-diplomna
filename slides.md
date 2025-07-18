@@ -65,11 +65,11 @@ Note:
 {
  "data": {
   "labels": [
-    "Red",
-    "Blue",
-    "Yellow",
-    "Green",
-    "Orange"
+    "Съперничество",
+    "Сътрудничество",
+    "Избягване",
+    "Компромис",
+    "Приспособяване"
   ],
   "datasets": [{
     "label": "My First Dataset",
