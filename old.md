@@ -6,6 +6,42 @@
 
 ### Емоционална интелигентност (ЕИ)
 
+----
+
+<div class="chart-container">
+<canvas data-chart="pie">
+<!--
+{
+ "data": {
+  "labels": [
+    "Сътрудничество",
+    "Компромис",
+    "Съперничество",
+    "Избягване",
+    "Приспособяване"
+  ],
+  "datasets": [{
+    "label": "My First Dataset",
+    "data": [8, 3, 2, 1, 1],
+    "backgroundColor": [
+      "rgb(255, 99, 132)",
+      "rgb(54, 162, 235)",
+      "rgb(255, 205, 86)",
+      "rgb(50, 205, 50)",
+      "rgb(255, 165, 0)"
+    ],
+    "hoverOffset": 4
+  }]
+},
+ "options": { "responsive": "true", "plugins": {"legend": {"position": "right"} } }
+}
+-->
+</canvas>
+</div>
+
+Note:
+
+
 * <!-- .element: class="fragment" --> Разпознаване на емоциите в себе си и в другите
 * <!-- .element: class="fragment" --> Самообладание
 * <!-- .element: class="fragment" --> Емпатия
