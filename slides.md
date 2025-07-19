@@ -13,7 +13,7 @@ Note:
 
 * <!-- .element: class="fragment" --> Нива на ЕИ 
 * <!-- .element: class="fragment" --> Лидерски стил 
-* <!-- .element: class="fragment" --> Подходи за упраление на конфликти
+* <!-- .element: class="fragment" --> Подходи за управление на конфликти
 * <!-- .element: class="fragment" --> Положителна корелация ЕИ – лидерски стил – конфликтен мениджмънт
 
 Note:
